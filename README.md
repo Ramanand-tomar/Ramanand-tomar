@@ -30,7 +30,7 @@ I'm passionate about developing **decentralized applications (dApps)** on the **
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanandtomar&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramanandtomar&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
@@ -49,9 +49,7 @@ I'm passionate about developing **decentralized applications (dApps)** on the **
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
-</p>
+
 
 
 ### "I turn ideas into reality through code & curiosity."
