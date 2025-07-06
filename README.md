@@ -24,14 +24,6 @@ I'm passionate about developing **decentralized applications (dApps)** on the **
 
 ---
 
-### 🔢 GitHub Stats
-
-![Ramanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramanandtomar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanandtomar&layout=compact&theme=radical)
-
-
-
 ---
 
 ### 💡 Current Focus
