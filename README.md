@@ -5,6 +5,11 @@
 I'm passionate about developing **decentralized applications (dApps)** on the **Ethereum Blockchain** and building scalable web apps using the **MERN stack**. I enjoy learning cutting-edge technologies and solving real-world problems with clean and efficient code.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+</p>
+---
+
 
 ### 🔧 Tech Stack & Tools
 
