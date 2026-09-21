@@ -49,15 +49,6 @@ I'm passionate about developing **decentralized applications (dApps)** on the **
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ramanand-tomar&show_icons=true&theme=tokyonight&hide_border=true" alt="Ramanand Tomar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanand-tomar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
----
-
 ### 🛍️ Connect With Me:
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://ramanand-tomar-portfolia.vercel.app/)
